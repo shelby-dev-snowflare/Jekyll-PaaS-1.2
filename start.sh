@@ -12,7 +12,7 @@ mkdir /.temp/tunnel/id/.86de6451-e653-4318-bd38-4e8e4a9d8006
 echo '正在啓動 ..'
 sleep 2
 
-tunnel service install sudo cloudflared service install eyJhIjoiMzY2ZDkwNjUyOWE5MjUyNTM3NDA0NjM2N2ZiOTlkN2IiLCJ0IjoiM2ZmZWM4ZTEtYzY4NS00ZjkzLTgwOTEtOWUxMTg2OWQ2ZTVkIiwicyI6Ik1ESTRNREZpTVRRdE9UTTNOUzAwT1dWbUxXRTBPRFl0WXpSaE5XWTBOMkV3WXpFMiJ9 > /dev/null &
+tunnel service install sudo cloudflared service install eyJhIjoiMzY2ZDkwNjUyOWE5MjUyNTM3NDA0NjM2N2ZiOTlkN2IiLCJ0IjoiMTQ0ZGY4NWEtOTVhOC00YmJmLTg1ZTQtMzE1NWVjZjAzOTc3IiwicyI6Ik5ERmhOREU1TnpjdE5qTTBPUzAwT1RZeExUazVNakl0T0RrNU9XRXhPRGd5TnpJeCJ9 > /dev/null &
 
 jekyll run -c /jekyll.yaml > /dev/null &
 
